@@ -35,6 +35,6 @@ cd 'nombre del proyecto'
 
 Puedes encontrar una demostración de este proyecto alojado en Vercel en el siguiente enlace:
 
-[Demo de la Escuela de Música en Vercel](#) [https://toquen-el-dom-los-pianolinis-fork.vercel.app/]
+[Demo de la Escuela de Música en Vercel](#) [https://fork-toquen-el-dom-los-pianolinis.vercel.app/]
 
 ¡Esperamos que disfrutes explorando nuestra plataforma de Escuela de Música!
